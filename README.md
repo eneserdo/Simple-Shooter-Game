@@ -6,14 +6,10 @@ This project was done under the scope of *Object Oriented Programming Course*.
 
 ## Usage
 
-First player:
+* First player:
+  * Direction keys: <kbd>W, A, S, D</kbd>
+  * Fire: <kbd> Enter </kbd>
 
-Direction keys: <kbd>W, A, S, D</kbd>
-Fire: <kbd> Enter </kbd>
-
-
-
-Second player:
-
-  Direction keys: <kbd>Up, Left, Down, Right </kbd>
-  Fire: <kbd> Space </kbd>
+* Second player:
+  * Direction keys: <kbd>Up, Left, Down, Right </kbd>
+  * Fire: <kbd> Space </kbd>
