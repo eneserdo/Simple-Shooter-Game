@@ -15,4 +15,6 @@ This project was done under the scope of *Object Oriented Programming Course*.
   * Fire: <kbd> Space </kbd>
 
 
+## Gameplay
+
 <img src="gameplay.png" class="center">
