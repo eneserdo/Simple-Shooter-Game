@@ -4,6 +4,9 @@ A Simple game to practice object oriented programming methodology such as encaps
 
 This project was done under the scope of *Object Oriented Programming Course*. 
 
+[Download](https://github.com/eneserdo/Simple-Shooter-Game/releases/download/v0.1/Simple-Shooter-Game.rar)
+
+
 ## Usage
 
 * First player:
