@@ -13,3 +13,6 @@ This project was done under the scope of *Object Oriented Programming Course*.
 * Second player:
   * Direction keys: <kbd>Up, Left, Down, Right </kbd>
   * Fire: <kbd> Space </kbd>
+
+
+<img src="gameplay.png" class="center">
